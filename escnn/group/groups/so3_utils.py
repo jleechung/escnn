@@ -1,4 +1,4 @@
-from lie_learn.representations.SO3.wigner_d import wigner_D_matrix
+# from lie_learn.representations.SO3.wigner_d import wigner_D_matrix
 
 from scipy.spatial.transform import Rotation
 
